@@ -1,0 +1,15 @@
+# Hesabım butonu tıklanır
+* "HesabımButonu" id'li elemente tikla
+
+# Giriş yap butonu tıklanır
+* "AnasayfaGirisyapButonu" xpath'li elemente tikla
+
+# Açılan pencerede eposta ve şifre girilerek login olunur
+* "EpostaGiris" id'li elemente "cem.bayir@testinium.com" text degerini gonder
+* "EpostaGirisyapButonu" id'li elemente tikla
+* "SifreGiris" id'li elemente "Cem12345" text degerini gonder
+* "SifreGirisyapButonu" id'li elemente tikla
+* "PopupOnay" id'li element varsa tikla
+
+# Hesabım ekranını kapat butonuna basılarak anasayfaya dönülür
+* "HesabimEkraniKapat" id'li elemente tikla

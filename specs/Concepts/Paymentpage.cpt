@@ -1,0 +1,9 @@
+# Sepete ürün eklenmesi ve ödeme sayfasına geçiş
+* "Kategorilerim" id'li elemente tikla
+* "AndroidTelefonlar" id'li elemente tikla
+* "RastgeleTelefonSecim" li elementi rasgele sec
+* "SepeteEkle" id'li elemente tikla
+* "SepeteEklendiPopup" li element gorunur olana kadar bekle
+* "SepeteGit" id'li elemente tikla
+* "AlisverisTamamla" id'li elemente tikla
+* "AdresEkle" xpath'li elemente tikla

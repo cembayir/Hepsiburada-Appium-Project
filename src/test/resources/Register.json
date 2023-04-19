@@ -1,0 +1,31 @@
+[
+  {
+    "key": "HesabımButonu",
+    "androidValue": "Hesabım",
+    "androidType": "accessibility id"
+  },
+
+  {
+    "key": "UyeOlButonu",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]",
+    "androidType": "xpath"
+  },
+
+  {
+    "key": "EpostaBilgisi",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+
+  {
+    "key": "DevametButonu",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+
+  {
+    "key": "DogrulamaMesaj",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+  }
+]

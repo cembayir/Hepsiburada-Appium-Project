@@ -1,0 +1,21 @@
+[
+  {
+    "key": "FavoriyeEkle",
+    "androidValue": "favoriye ekle",
+    "androidType": "accessibility id"
+  },
+
+  {
+    "key": "GeriButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/leftIcon",
+    "androidType": "id"
+  },
+
+  {
+    "key": "FavoriKontrol",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[7]",
+    "androidType": "xpath"
+  }
+
+
+]

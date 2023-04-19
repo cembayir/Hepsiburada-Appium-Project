@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Anasayfa",
+    "androidValue": "Anasayfam",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "Kategorilerim",
+    "androidValue": "Kategorilerim",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "Sepetim",
+    "androidValue": "Sepetim",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "Listelerim",
+    "androidValue": "Listelerim",
+    "androidType": "accessibility id"
+  }
+]

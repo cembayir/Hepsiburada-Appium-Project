@@ -1,0 +1,4 @@
+# Sepete eklenen ürün silinir
+* "Sepetim" id'li elemente tikla
+* "SepettenSil" id'li elemente tikla
+* "SepetBosKontrol" xpath'li elementin oldugu kontrol edilir

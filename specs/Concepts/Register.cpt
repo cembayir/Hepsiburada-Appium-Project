@@ -1,0 +1,12 @@
+# Hesabım butonu tıklanır
+* "HesabımButonu" id'li elemente tikla
+
+# Üye ol butonu tıklanır
+* "UyeOlButonu" id'li elemente tikla
+
+# Eposta alanı doldurulur ve devam et butonuna tıklanır
+* "EpostaBilgisi" id'li elemente "cem.bayir@testinium.com" text degerini gonder
+* "DevametButonu" id'li elemente tikla
+
+# Doğrulama mesajı kontrol edilir
+* "DogrulamaMesaj" xpath'li element gorunur olana kadar bekle

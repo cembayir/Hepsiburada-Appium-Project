@@ -1,0 +1,8 @@
+# Seçilen ürün favorilere eklenir
+* "RastgeleTelefonSecim" li elementi rasgele sec
+* "FavoriyeEkle" id'li elemente tikla
+
+# Listelerim'e tıklanarak favoriye eklenen ürünler kontrol edilir
+* "GeriButonu" id'li elemente tikla
+* "Listelerim" id'li elemente tikla
+* "FavoriKontrol" xpath'li element gorunur olana kadar bekle

@@ -1,0 +1,14 @@
+[
+  {
+    "key": "AndroidTelefonlar",
+    "androidValue": "insideMenuItem1-2",
+    "androidType": "accessibility id"
+  },
+
+  {
+    "key": "RastgeleTelefonSecim",
+    "androidValue": "com.pozitron.hepsiburada:id/rvPlp",
+    "androidType": "id"
+  }
+
+]

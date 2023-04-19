@@ -1,0 +1,6 @@
+# Rastgele ürün seçilir ve sepete eklenir
+* "Kategorilerim" id'li elemente tikla
+* "AndroidTelefonlar" id'li elemente tikla
+* "RastgeleTelefonSecim" li elementi rasgele sec
+* "SepeteEkle" id'li elemente tikla
+* "SepeteEklendiPopup" li element gorunur olana kadar bekle

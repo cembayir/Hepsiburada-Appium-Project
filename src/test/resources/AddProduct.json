@@ -1,0 +1,12 @@
+[
+  {
+    "key": "SepeteEkle",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+    "androidType": "id"
+  },
+  {
+    "key": "SepeteEklendiPopup",
+    "androidValue": "com.pozitron.hepsiburada:id/productSuccesTxt",
+    "androidType": "id"
+  }
+]
